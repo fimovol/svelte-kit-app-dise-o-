@@ -14,7 +14,7 @@ import Colores from '../components/Colores.svelte'
 <!-- <A/> -->
 
 <div class="h-screen w-full relative">
-	<div class="hola flex justify-center pt-8 h-1/6 bg-blue-900 
+	<div class="hola flex justify-center pt-8 h-1/6 bg-red-900 
 	text-white">
 		<Flecha/>
 		<div>elemento centrado</div>
